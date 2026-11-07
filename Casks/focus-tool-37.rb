@@ -1,6 +1,6 @@
 cask "focus-tool-37" do
-  version "0.1.0"
-  sha256 "6b46812bb7d769a066d5b6aa94436755d12129327e4b856794a140bc0bca8c3d"
+  version "0.1.1"
+  sha256 "c0efdc65fdb508446ef25aa0df412514471a04fbd175218b4a457c3e354e4879"
 
   url "https://github.com/netzgut/focus-tool-37/releases/download/v#{version}/FocusTool37-#{version}.zip"
   name "Focus Tool 37"
